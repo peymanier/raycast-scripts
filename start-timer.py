@@ -4,7 +4,7 @@
 # @raycast.schemaVersion 1
 # @raycast.title timer
 # @raycast.mode silent
-# @raycast.refreshTime 10s
+# @raycast.refreshTime 1h
 
 # Optional parameters:
 # @raycast.icon ./images/icons8-timer-50.png
