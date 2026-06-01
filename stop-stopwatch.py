@@ -20,7 +20,7 @@ import sys
 
 
 def main() -> None:
-    # https://www.icloud.com/shortcuts/6f5f547aac12413ab63ae94bfa5a8eeb
+    # https://www.icloud.com/shortcuts/d12754a196cd4429ab34c9a84a6bbe61
     shortcut_name = "Stop the Stopwatch"
 
     result = subprocess.run(
