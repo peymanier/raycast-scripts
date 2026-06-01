@@ -11,7 +11,7 @@
 # @raycast.packageName raycast-scripts
 
 # Documentation:
-# @raycast.description Start a macOS Stopwatch
+# @raycast.description Stop the macOS Stopwatch
 # @raycast.author peymanier
 # @raycast.authorURL https://github.com/peymanier
 
