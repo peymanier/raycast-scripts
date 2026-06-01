@@ -33,6 +33,8 @@ def main() -> None:
         print(result.stderr, file=sys.stderr)
         sys.exit(1)
 
+    print('stopwatch started')
+
 
 if __name__ == "__main__":
     main()
