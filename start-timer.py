@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title time
+# @raycast.title timer
 # @raycast.mode silent
 # @raycast.refreshTime 10s
 
