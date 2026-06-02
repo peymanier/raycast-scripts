@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title watch start
+# @raycast.title watch
 # @raycast.mode silent
 # @raycast.refreshTime 1h
 
